@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">CV App</string>
+    <string-array name="Degree">
+        <item>Select</item>
+        <item>Middle</item>
+        <item>Matric</item>
+        <item>Inter</item>
+        <item>Graduate</item>
+        <item>Masters</item>
+        <item>Phd</item>
+    </string-array>
+    <string-array name="Experience">
+        <item>Select</item>
+        <item>20+ yrs</item>
+        <item>15+ yrs</item>
+        <item>10+ yrs</item>
+        <item>5+ yrs</item>
+        <item>5 yrs</item>
+        <item>4 yrs</item>
+        <item>3 yrs</item>
+        <item>2 yrs</item>
+        <item>1 yrs</item>
+        <item>Fresh</item>
+
+    </string-array>
+</resources>
